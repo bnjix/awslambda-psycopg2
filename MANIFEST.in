@@ -1,1 +1,1 @@
-include _psycopg.so
+include psycopg2/_psycopg.so
